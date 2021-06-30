@@ -1,11 +1,11 @@
 const CONFIG = {
     introTitle: 'Em bé à :3',   
     introDesc: `Trái đất vốn lạ thường
-         
+    .
     Mà sao em cứ đi nhầm đường
-         
+    .
     Lạc vào tim anh lẻ loi
-         
+    .
     Đằng sau chữ yêu đây là thương`,
     btnIntro: 'Awwwwww',
     title: 'Do you love me at the first sight? ',
