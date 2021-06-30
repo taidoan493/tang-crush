@@ -9,7 +9,7 @@ const CONFIG = {
     desc: 'Ỏooooo :3 ',
     btnYes: 'Đúng ời anh yêu <3',
     btnNo: 'Ngáo! Nói xạo đó',
-    question:'The tai sao Thu lai yeu anhhhh <3',
+    question:'The tai sao Thu lai yeu anh <3',
     btnReply: 'Gửi cho anh <3',
     reply: 'Tại Tài đẹp trai, dễ huông, cưng Thư nũa <3',
     mess: 'Will you date with me? :3',
